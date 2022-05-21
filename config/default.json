@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://mi66mc:pipoca2013@66-db.qrwhg.mongodb.net/?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:5000"
+}
