@@ -1,6 +1,6 @@
-POST http://localhost:5000/api/url/shorten
+POST https://short-urler.herokuapp.com/api/url/shorten
 Content-Type: application/json
 
 {
-    "longUrl": "https://www.youtube.com/"
+    "longUrl": "https://www.mercadolivre.com.br/samsung-galaxy-a03-dual-sim-64-gb-preto-4-gb-ram/p/MLB18954967?pdp_filters=deal:MLB779362-1#searchVariation=MLB18954967&position=1&search_layout=grid&type=product&tracking_id=09d944d8-8b1b-4e5a-8f68-2af44312ab6a&c_id=/home/promotions-recommendations/element&c_element_order=1&c_uid=06f37d41-4e40-42f2-980f-a44f74ca7f09"
 }
